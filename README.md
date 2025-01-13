@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://upendratech.site](https://upendratech.site)
 
-- 📝 I regularly write articles on [https://medium.com/@manbitage](https://medium.com/@manbitage)
+- 📝 I regularly write articles on [medium@upendrajaiswal](https://medium.com/@upendrajaiswal)
 
 - 💬 Ask me about **Reacts,Nodejs,MongoDB,Expressjs**
 
