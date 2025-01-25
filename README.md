@@ -5,7 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/upendraj20" target="blank"><img src="https://img.shields.io/twitter/follow/upendraj20?logo=twitter&style=for-the-badge" alt="upendraj20" /></a> </p>
 
-- 🔭 Latest projects : [GPU Auction MarketPlace (MVP)](https://github.com/Upendra-Jaiswal/GPU-Marketplace-Auction) [SubBuddy](https://github.com/Upendra-Jaiswal/SubBuddy) and [Trooking](https://github.com/Upendra-Jaiswal/Trooking)
+- 🔭 Latest projects :
+- 1. [GPU Auction MarketPlace (MVP)](https://github.com/Upendra-Jaiswal/GPU-Marketplace-Auction)
+  2. [SubBuddy](https://github.com/Upendra-Jaiswal/SubBuddy)
+  3.  [Trooking](https://github.com/Upendra-Jaiswal/Trooking)
 
 - 🌱 I’m currently learning **Kafka,GraphQL**
 
