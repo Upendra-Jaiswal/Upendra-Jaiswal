@@ -8,7 +8,7 @@
 - 🔭 Latest projects :
 - 1. [GPU Auction MarketPlace (MVP)](https://github.com/Upendra-Jaiswal/GPU-Marketplace-Auction)
   2. [SubBuddy](https://github.com/Upendra-Jaiswal/SubBuddy)
-  3.  [Trooking](https://github.com/Upendra-Jaiswal/Trooking)
+ 
 
 - 🌱 I’m currently learning **Kafka,GraphQL**
 
