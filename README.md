@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [medium@upendrajaiswal](https://medium.com/@upendrajaiswal)
 
-- 💬 Ask me about **Reacts,Nodejs,MongoDB,Expressjs**
+
 
 - 📫 How to reach me **developeruj@gmail.com**
 
