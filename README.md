@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Kafka,GraphQL**
 
-- 👨‍💻 All of my projects are available at [https://upendratech.site](https://upendratech.site)
+- 👨‍💻 All of my projects are available at [upendratech](https://lightpink-gorilla-902135.hostingersite.com)
 
 - 📝 I regularly write articles on [medium@upendrajaiswal](https://medium.com/@upendrajaiswal)
 
